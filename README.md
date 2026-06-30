@@ -9,7 +9,7 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 > **Note:** The backend is hosted on Render's free tier. If the service has been idle, the first request may take 30–60 seconds while Render wakes up the server.
 
 ---
-```text
+
 ## Features
 
 - Shorten any valid HTTP/HTTPS URL.
@@ -22,7 +22,7 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 - Centralized error handling with appropriate HTTP status codes.
 - Dockerized frontend and backend.
 - Deployed using Vercel and Render.
-```
+  
 ---
 
 ## Architecture
@@ -46,7 +46,7 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 ```
 
 ---
-```text
+
 ## Tech Stack
 
 ### Backend
@@ -72,7 +72,7 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 - Frontend: Vercel
 - Backend: Render
 - Database: MongoDB Atlas
-```
+
 ---
 
 ## Project Structure
