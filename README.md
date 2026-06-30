@@ -22,9 +22,9 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 - Centralized error handling with appropriate HTTP status codes.
 - Dockerized frontend and backend.
 - Deployed using Vercel and Render.
-
----
 ```
+---
+
 ## Architecture
 
 ```text
@@ -46,7 +46,7 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 ```
 
 ---
-
+```text
 ## Tech Stack
 
 ### Backend
@@ -72,7 +72,7 @@ A full-stack URL shortener built using **Node.js, Express, MongoDB, React, and D
 - Frontend: Vercel
 - Backend: Render
 - Database: MongoDB Atlas
-
+```
 ---
 
 ## Project Structure
